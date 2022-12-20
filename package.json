@@ -1,0 +1,19 @@
+{
+  "name": "wa4payment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatstrudeau/WA4Payment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatstrudeau/WA4Payment/issues"
+  },
+  "homepage": "https://github.com/thatstrudeau/WA4Payment#readme"
+}
